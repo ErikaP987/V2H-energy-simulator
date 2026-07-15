@@ -3,7 +3,7 @@
 This repository contains the interactive simulation and optimization tool developed during a research stay at the University of Ljubljana, under the European Horizon Europe project **EV4EU**. 
 
 The tool serves as the computational demonstrator for the paper:  
-*"V2H tool for self-sufficiency analysis: selected residential use cases"* (presented at ERK 2026, Portorož, Slovenia).
+*"V2H tool for self-sufficiency analysis: selected residential use cases"* (written for ERK 2026, Portorož, Slovenia).
 
 It allows users to simulate, visualize, and compare two distinct energy dispatch strategies for a multi-storage Home Energy Management System (HEMS) incorporating PV generation, a stationary battery (BESS), and a bidirectional electric vehicle (V2H).
 
