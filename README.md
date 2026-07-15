@@ -71,12 +71,12 @@ To launch the interactive Streamlit interface:
 ```bash
 streamlit run app.py
 ```
-### Project Authors
+## Project Authors
 * Erika Paofai — UniLaSalle Amiens, France (erika.paofai@etu.unilasalle.fr)
 * Tim Marentič — University of Ljubljana, FE, Slovenia
 * Matej Zajc — University of Ljubljana, FE, Slovenia
 
-### Acknowledgements
+## Acknowledgements
 This research was conducted during a research stay at the University of Ljubljana (Faculty of Electrical Engineering, Laboratory of Energy Policy), in collaboration with UniLaSalle Amiens.
 
 We gratefully acknowledge the support of the EV4EU project, which has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101056765. Special thanks to the laboratory members and academic supervisors for their guidance and resources throughout this work.
